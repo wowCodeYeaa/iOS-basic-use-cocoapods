@@ -1,0 +1,1 @@
+this is an document about how to use cocoapods
